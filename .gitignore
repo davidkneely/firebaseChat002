@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+<<<<<<< HEAD
+google-services.json
+=======
+>>>>>>> 4617595... Saves message to firebase
